@@ -51,3 +51,22 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.link {
+    font-family: "Ubuntu";
+    font-size: 125%;
+    padding: 3%;
+}
+
+:any-link {
+  color: #fff;
+  
+}
+
+a:hover {
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
